@@ -13,7 +13,7 @@ This website is designed to manage **summer camp activities for children**, such
 
 Users can choose any camp, register or log in, make a payment for the selected camp, and submit feedback. All user data, registrations, and payment details are stored in the **MySQL database using phpMyAdmin**.
 
-## ✨ Features
+## Features
 
 * Home page with different camp categories
 * Camp selection (Sports, Cooking, Outdoor Games, etc.)
@@ -23,7 +23,7 @@ Users can choose any camp, register or log in, make a payment for the selected c
 * Data stored in **phpMyAdmin (MySQL)**
 * Responsive and user-friendly interface
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** PHP
